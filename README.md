@@ -10,6 +10,8 @@ forked from cs50 game track
 * double plaer
 * starting ui with song ( you need to add sound folder though)
 
+* fullscreen mode - second update
+
 # how to use?
 * Downloade love2d framework and install it!!
 * Downloade sound folder and copy paste into pong folder (ADDED no need to do this step)
